@@ -1,2 +1,3 @@
-// JS básico de navegação ou interações futuras
-console.log("Unika Portfólio carregado.");
+//script
+var x = document.getElementById("musica"); 
+x.play();
