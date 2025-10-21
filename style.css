@@ -135,7 +135,11 @@ p {
 }
 .fotografo h2 {
   margin: 0 auto;
-  text-align: center;
+  /* text-align: center; */
+}
+
+.fotografo h2 span {
+  font-size: 1.5rem;
 }
 
 .fotografo img {
